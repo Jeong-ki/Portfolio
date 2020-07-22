@@ -294,7 +294,7 @@ p {
 
 .category__btn.active,
 .category__btn:hover {
-    background-color: var(--color-pink);
+    background-color: var(--color-blue);
     color:var(--color-white);
 }
 
@@ -417,7 +417,7 @@ p {
 }
 
 .testimonial__speech-bubble a {
-    color: var(--color-pink);
+    color: var(--color-blue);
 }
 
 /* Contact */
